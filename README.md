@@ -1,4 +1,5 @@
 ### Hi there 👋
+This website shows my favorite places where I have made fond memories with people that I love. 
 
 <!--
 **abound16/abound16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
